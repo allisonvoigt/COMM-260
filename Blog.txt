@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+        
+        <style>
+            
+        body {
+                background-color: rgb(237, 199, 237);
+        }
+        
+        h1 {
+            background-color: rgb(247, 113, 247);
+            font-family:"Harlow solid", cursive;
+            font-size: 80px;
+            text-align:center;
+            text-decoration:underline;
+        }
+        
+        h3 {
+            background-color:rgb(191, 90, 191);
+            font-family:"Harlow solid", cursive;
+            font-size: 30px;
+            text-align:center;
+        }
+        
+        .plain-text {
+            font-family:"arial",sans-serif;
+            font-size:20px;
+        }
+        
+        h2 {
+            background-color:rgb(120, 50, 120);
+            font-family:"harlow solid", cursive;
+            font-size:40px;
+            text-align:center;
+            text-decoration:underline;
+        }
+        
+        h6 {
+            font-family:"arial",sans-serif;
+            font-size:15px;
+        }
+        
+        li {
+            color:black;
+        }
+        </style>
+    </head>
+    <body>
+        <h1>Allison's Blog</h1>
+
+        <h3>Table of Contents</h3>
+        <ul>
+            <li class="plain-text"><a href="#recruitment">Recruitment</a></li>
+            <li class="plain-text"><a href="#bid-day">Bid Day</a></li>
+        </ul>
+        
+        <h2 id="recruitment">Recruitment</h2>
+        <h6>Posted September 15,2019</h6>
+        
+        <p class="plain-text">This weekend was Sorority Recruitment.  It was a lot of chanting, talking, and overall excitement for everyone.  We'd all be welcoming new members to our chapters, so everyone wanted the weekend to be perfect.  I will say, I still enjoyed the weekend, but it takes a lot out of a person.  I ended up woth tonsillitis before we even started recruitment on Friday so chanting and talking was really hard for me.  I pushed though it, though and successfully made it through the weekend because I slept every free second I had as well as went to the walk-in and got medicine.</p>
+        
+        <h2 id="bid-day">Bid Day</h2>
+        <h6>Posted September 16,2019</h6>
+        
+        <p class="plain-text">Each sorority picks out their Bid Day theme.  Tri Delta had Delta Strong as theirs, Kappa Delta had icy as their theme, Kappa Alpha Theta had "Welcome to the Jungle", and Alpha Gam (my sorority) had "Barbie Dream House".  I thought our theme was very fitting considering we just got a new house that looks like a dream house.  We dressed in our Bid Day shirts and our best "Barbie" attire - it ranged from pink faux leather skirts to jeans and sneakers.  A little bit of everything, really.  After that, we went back to the house and celebrated the new members.</p>
+        
+        
+    </body>
+</html>
