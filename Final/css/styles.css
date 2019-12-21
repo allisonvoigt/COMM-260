@@ -1,0 +1,144 @@
+* {
+	box-sizing: border-box;
+}
+
+.content {
+    max-width: 70%;
+    margin: auto;
+    margin-top: 5%;
+  }
+
+header {
+    width: 70%;
+    padding: 3rem;
+    margin: auto;
+}
+h1 {
+    float:left;
+    text-align: center;
+    font-size: 2rem;
+    line-height: 2.2rem;
+    color: rgb(137, 137, 137)
+}
+.header {
+   font-size: 3rem;
+   color: rgb(100, 100, 100);
+}
+nav {
+        float: right;
+        margin-top: 1%;
+        margin-left: 10%;
+}
+
+nav ul {
+	list-style-type: none;
+	margin: 0px 30px 0px;
+}
+
+nav ul a,
+nav ul a:visited,
+nav ul a:link {
+	text-decoration: none;
+    color:rgb(100, 100, 100);
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+    font-size: 1.4rem;
+}
+
+nav ul a:hover {
+    border-bottom: solid 5px red;
+}
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+h1,
+h2 {
+    font-family: 'Slabo 13px', serif;
+}
+
+p,
+blockquote {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(39, 39, 39)
+}
+
+#kids {
+    width: 66.66%;
+    float: left;
+}
+
+.welcome {
+    width: 33.33%;
+    float: right;
+}
+
+h2 {
+    padding-top: 4%;
+    font-size: 2.5rem;
+    border-bottom: solid 2px red;
+    color: rgb(39, 39, 39);
+    line-height: 2.8rem;
+}
+p {
+    font-size: 1.1rem;
+}
+.henry {
+    width: 66.66%;
+    margin: auto;
+    clear: both;
+}
+.henry h2 {
+    text-align: center;
+    padding-top: 1%;
+}
+blockquote {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding: 1%;
+    border-left: solid 5px rgb(239, 239, 239);
+}
+.images {
+    text-align: center;
+}
+
+.images img {
+    max-width: 33%;
+}
+
+.charlie {
+    width: 66.66%;
+    margin: auto;
+}
+
+.charlie h2 {
+    text-align: center;
+    padding-top: 1%;
+}
+
+.images2 {
+    text-align: center;
+}
+
+.images2 img {
+    max-width: 33%;
+}
+
+html {
+    font-size: 16px; 
+    line-height: 1.4rem;
+    background: url(img/bg.jpg) rgb(248, 248, 248) repeat fixed;
+}
+
+img {
+    max-width: 100%;
+    padding: 30px;
+}
+
+footer {
+    margin: 4rem 0rem;
+    padding: 2rem 0rem;
+    border-top: 1px solid #ccc;
+    font-size: .8rem;
+}
